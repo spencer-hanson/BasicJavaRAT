@@ -1,6 +1,9 @@
-###Java Remote Administration Tool
+##Java Remote Administration Tool
+<img src="media/demo.gif" width="813" height="508" />
+<br />
 
-There are two projects, the client and the server
+###Description:
+There are two eclipse projects, the client and the server
 they're both eclipse projects, just import them and 
 compile them to create the Client.jar and Server.jar
 
@@ -12,6 +15,4 @@ Then run the client on your computer, where you want to connect from
 type help for commands
 
 #ToDo
-* update readme
-* add pictures
-* create easier setup, maybe install script or makefile
+* create easier setup, maybe install script or makefile?
